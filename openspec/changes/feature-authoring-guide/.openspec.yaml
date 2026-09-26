@@ -1,0 +1,6 @@
+schema: spec-driven
+created: 2026-09-26
+# Docs-only change: restructures docs/templates/feature.md, adds worked examples,
+# deletes prose duplicated from openspec-explore/SKILL.md. No behavior changes,
+# so no spec deltas. See proposal.md "Capabilities".
+skip_specs: true
